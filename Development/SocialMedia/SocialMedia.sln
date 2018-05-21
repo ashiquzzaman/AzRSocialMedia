@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterLikeApp.Entity", "TwitterLikeApp.Entity\TwitterLikeApp.Entity.csproj", "{0288F953-3020-4F4C-AB56-E37E731978C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterLikeApp.UI", "TwitterLikeApp.UI\TwitterLikeApp.UI.csproj", "{9AA5EB29-1F1F-4D78-99C7-51A38061DA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterLikeApp.Repositories", "TwitterLikeApp.Repositories\TwitterLikeApp.Repositories.csproj", "{27EC931A-B576-444E-9DC5-E2B203080003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0288F953-3020-4F4C-AB56-E37E731978C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0288F953-3020-4F4C-AB56-E37E731978C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0288F953-3020-4F4C-AB56-E37E731978C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0288F953-3020-4F4C-AB56-E37E731978C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA5EB29-1F1F-4D78-99C7-51A38061DA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA5EB29-1F1F-4D78-99C7-51A38061DA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA5EB29-1F1F-4D78-99C7-51A38061DA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA5EB29-1F1F-4D78-99C7-51A38061DA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27EC931A-B576-444E-9DC5-E2B203080003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EC931A-B576-444E-9DC5-E2B203080003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EC931A-B576-444E-9DC5-E2B203080003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EC931A-B576-444E-9DC5-E2B203080003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
